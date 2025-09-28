@@ -1,0 +1,9 @@
+EMAIL: anatrabalhos27@gmail.com SENHA: trabalhos@2025
+----------
+CONTA MONGO DB PROJETO INTEGRADOR (ATLAS ACCOUNT)
+
+EMAIL: anatrabalhos27@gmail.com SENHA: mongo@pi1
+
+NOME DO CLUSTER: ClusterPi1 (aws, free 512MB)
+
+USUÁRIO DO BD: anaPi01 SENHA: pwSpNHHR-Y34rS
